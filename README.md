@@ -10,19 +10,19 @@ Part of Software Agents & Optimisation Coursework
 
 ## This implementation contains: 
 
-** Ordered-Based Algorithm, **
+**Ordered-Based Algorithm,**
 
 ![Ordered-Based Algorithm Result](/img/picture1.png)
 
 
 
-** Greedy Algorithm, **
+**Greedy Algorithm,**
 
 ![Greedy Algorithm Result](/img/picture2.png)
 
 
 
-** Genetic Algorithm. **
+**Genetic Algorithm.**
 
 ![Genetic Algorithm Result](/img/picture3.png)
 
