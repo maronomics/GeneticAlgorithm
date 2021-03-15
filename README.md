@@ -4,7 +4,11 @@
 
 The circle packing problem considered here is concerned with arranging fixed number of different sized circles in a circular container without overlapping and analyzing three different search algorithms for this problem.
 
-This implementation contains: 
+
+Part of Software Agents & Optimisation Coursework
+
+
+## This implementation contains: 
 
 ** Ordered-Based Algorithm, **
 
@@ -21,4 +25,5 @@ This implementation contains:
 ** Genetic Algorithm. **
 
 ![Genetic Algorithm Result](/img/picture3.png)
+
 
